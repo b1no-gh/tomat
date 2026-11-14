@@ -13,7 +13,7 @@ First of all, I built this utility for myself, but I also prepared it for public
 [![Latest Release](https://img.shields.io/github/v/release/Storinob/tomat?color=007acc&label=release)](https://github.com/Storinob/tomat/releases/)
 
 
-## Screenshots
+## Showcase
 (1920x1080)
 <img width="1920" height="1080" alt="426505c5" src="https://github.com/user-attachments/assets/0f81eb0f-f175-4ad7-8a5d-1b36e3846ce4" />
 <img width="640" height="360" alt="tomat1" src="https://github.com/user-attachments/assets/520c0633-2dc4-4085-b769-a73c3c6aae2e" />
